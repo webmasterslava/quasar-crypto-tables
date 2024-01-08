@@ -1,6 +1,7 @@
 # Quasar Crypto Table (quasar-crypto-table)
 
-A Quasar Crypto Table Project
+## Demo
+https://master--timely-pika-7856d1.netlify.app
 
 ## Install the dependencies
 ```bash
